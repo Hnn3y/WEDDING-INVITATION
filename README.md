@@ -1,4 +1,4 @@
 # WEDDING-INVITATION
 
 ## DEMO VIEW 
-![Page Screenshot](./Images/Screenshot%20(168).png)
+![Page Screenshot](./Images/Screenshot%20(169).png) 
